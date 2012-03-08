@@ -1,0 +1,20 @@
+== Basic Info
+This project contains all the source code of exercises for "Practical Unit Testing with TestNG and Mockito".
+
+See the book's website: http://practicalunittesting.com
+
+== Prerequisites
+TBD
+
+== Import project to your IDE
+TBD
+
+=== Eclipse
+TBD
+
+=== IntelliJ IDEA
+TBD
+
+== Some tests fail - yes, on purpose
+TBD
+
