@@ -5,10 +5,10 @@ import org.testng.annotations.Test;
 import static org.testng.Assert.*;
 
 /**
- * Sample code for "Developers test: From beginner to master" book.
- * Tomasz Kaczanowski
- * http://kaczanowscy.pl/tomek
- * 9/18/11, 4:54 PM
+ * Practical Unit Testing with TestNG and Mockito - source code for exercises.
+ * Visit http://practicalunittesting.com for more information.
+ *
+ * @author Tomek Kaczanowski
  */
 @Test
 public class TestFixtureTest {
