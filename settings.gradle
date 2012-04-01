@@ -1,0 +1,9 @@
+include 'chp_03_fahrenheit', 'chp_03_string_reversal',
+        'chp_05_user_service', 'chp_05_race_results',
+  'chp_06_test_collections', 'chp_06_time_testing', 'chp_06_custom_matcher', 'chp_06_id_generator',
+  'chp_07_legacy_code',
+  'chp_08_csv_reporter_log',
+  'chp_08_custom_test_listener',
+  'chp_09_test_fixture', 'chp_09_test_data_builder',
+  'chp_10_sports_car',
+  'chp_11_clean_this_mess'
