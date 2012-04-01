@@ -4,28 +4,25 @@ This project contains all the source code of exercises for "Practical Unit Testi
 See the book's website: http://practicalunittesting.com
 
 == Import project to your IDE
-TBD
-
-=== Maven
-TBD
 
 === Eclipse
 TBD
 
 === IntelliJ IDEA
 You can import files by choosing:
-File / New Project / Import project from external module / Gradle
-and then choosing "build.gradle" file.
+
+* File / New Project / Import project from external module
+* select Gradle
+* and then select +build.gradle+ file
 
 == Content
-TBD by chapters
 
-* Chapter 5 "Unit Tests with No Collaborators"
-* Chapter 6 "Test Driven Development"
-* Chapter 7 "Mocks, Stubs, Test Spies"
-* Chapter 8 "Things You Should Know"
-* Chapter 9 "Points of Controversy"
-* Chapter 10 "Getting Feedback"
-* Chapter 11 "Organization of Tests"
-* Chapter 12 "Maintainable Tests"
-* Chapter 13 "Test Quality"
+* Chapter 3 "Unit Tests with no Collaborators"
+* Chapter 4 "Test Driven Development"
+* Chapter 5 "Mocks, Stubs, Test Spies"
+* Chapter 6 "Things You Should Know"
+* Chapter 7 "Points of Controversy"
+* Chapter 8 "Getting Feedback"
+* Chapter 9 "Organization of Tests"
+* Chapter 10 "Maintainable Tests"
+* Chapter 11 "Test Quality"
