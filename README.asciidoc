@@ -3,14 +3,8 @@ This project contains all the source code of exercises for "Practical Unit Testi
 
 See the book's website: http://practicalunittesting.com
 
-== Prerequisites
-TBD
-
 == Import project to your IDE
 TBD
-
-=== Gradle
-TBD gradle wrapper
 
 === Maven
 TBD
@@ -19,10 +13,9 @@ TBD
 TBD
 
 === IntelliJ IDEA
-TBD
-
-== Exercises & Solutions
-TBD
+You can import files by choosing:
+File / New Project / Import project from external module / Gradle
+and then choosing "build.gradle" file.
 
 == Content
 TBD by chapters
@@ -34,5 +27,5 @@ TBD by chapters
 * Chapter 9 "Points of Controversy"
 * Chapter 10 "Getting Feedback"
 * Chapter 11 "Organization of Tests"
-* Chapter 12 "Maintanable Tests"
+* Chapter 12 "Maintainable Tests"
 * Chapter 13 "Test Quality"
