@@ -6,7 +6,19 @@ See the book's website: http://practicalunittesting.com
 == Import project to your IDE
 
 === Eclipse
-TBD
+First you need to generate Eclipse project files. If you have Gradle installed then type
+
+----
+gradle eclipse
+----
+
+In other cases (this will take some time - first Gradle will be downloaded):
+
+----
+./gradlew eclipse
+----
+
+After this you can import this project to Eclipse as any other project (File / Import / General / Existing Project into Workspace). As far as I know (not being an Eclipse guru!) you need to import each project individually.
 
 === IntelliJ IDEA
 You can import files by choosing:
@@ -16,6 +28,7 @@ You can import files by choosing:
 * and then select +build.gradle+ file
 
 == Content
+For your convenience all exercises are kept in separate dirs with names like "chp_X_exercise_name" where X is the chapter number:
 
 * Chapter 3 "Unit Tests with no Collaborators"
 * Chapter 4 "Test Driven Development"
